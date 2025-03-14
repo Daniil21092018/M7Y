@@ -44,3 +44,4 @@ def machin_classification(image_path):
     # Print prediction and confidence score
     return class_name[2:-1]
 machin_classification('i (7).webp')
+
